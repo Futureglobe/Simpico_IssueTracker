@@ -10,5 +10,5 @@ This GitHub repository acts as a public issue tracker for the application Simpic
 
 ## Requesting Beta Access
 
-Simpico is currently in beta state. If you find any kind of erros or have a feature request please contact us under 
+Simpico is currently in beta state. If you find any kind of errors or have a feature request please contact us under 
 [support@futureglobe.de](mailto:support@futureglobe.de)
