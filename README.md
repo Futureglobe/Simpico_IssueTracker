@@ -5,4 +5,4 @@
 </p>
 
 
-This GitHub repository acts as a public issue tracker for the application Simpico: A simple and useful application to find and download free icons for your projects
+This GitHub repository acts as a public issue tracker for the application Simpico: A simple and useful application to find and download icons for your projects
